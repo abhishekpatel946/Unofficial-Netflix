@@ -42,11 +42,13 @@
   </a>
 </p>
 
-# Unofficial Netflix
+# [Unofficial Netflix](https://unofficial-netflix.web.app/)
 
 This is the clone of Netflix called as Unofficial Netflix. It shows bunch of latest movies & series with description. We're using TMDB api for the scrapping details of each movies and series. 
 
 For the frontend we're used here React and Custom CSS for styling and hosted using Firebase.
+
+here it is :- https://unofficial-netflix.web.app/
 
 ### Built With
 This section should list any major frameworks that you built using your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples:
