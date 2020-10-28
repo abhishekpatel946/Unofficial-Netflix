@@ -70,12 +70,15 @@ Node.js
 ```sh
 npm
 ```
+```sh
+firebase
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![Main-Screeen](https://github.com/abhishekpatel946/Unofficial-Netflix/tree/master/src/Assets/main-screen.png)
-![Movie-popup](https://github.com/abhishekpatel946/Unofficial-Netflix/tree/master/src/Assets/movie-popup.png)
+![Main-Screeen](https://github.com/abhishekpatel946/Unofficial-Netflix/blob/master/src/Assets/main-screen.png)
+![Movie-popup](https://github.com/abhishekpatel946/Unofficial-Netflix/blob/master/src/Assets/movie-popup.png)
 
 
 _For more examples, please refer to the [Documentation]()_
@@ -112,13 +115,12 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/abhishekpa
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/abhishekpatel946/PassManager-pyScript](https://github.com/abhishekpatel946/Unofficial-Netflix)
+Project Link: [https://github.com/abhishekpatel946/Unofficial-Netflix](https://github.com/abhishekpatel946/Unofficial-Netflix)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 
