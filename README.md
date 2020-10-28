@@ -74,8 +74,8 @@ npm
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![Main-Screeen](https://github.com/abhishekpatel946/Unofficial-Netflix/../../../../src/Assets/main-screen.png)
-![Movie-popup](https://github.com/abhishekpatel946/Unofficial-Netflix/../../../../src/Assets/movie-popup.png)
+![Main-Screeen](https://github.com/abhishekpatel946/Unofficial-Netflix/tree/master/src/Assets/main-screen.png)
+![Movie-popup](https://github.com/abhishekpatel946/Unofficial-Netflix/tree/master/src/Assets/movie-popup.png)
 
 
 _For more examples, please refer to the [Documentation]()_
