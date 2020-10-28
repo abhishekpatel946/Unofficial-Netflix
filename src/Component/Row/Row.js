@@ -18,15 +18,11 @@ function Row({ title, fetchUrl, isLargeRow }) {
     async function fetchData() {
       // "https://api.themoviedb.org/3/trending/all/week?api_key=${API_KEY}&language=en-US"
       const request = await axios.get(fetchUrl);
-      //   console.log(request);
       setMovies(request.data.results);
       return request;
     }
     fetchData();
   }, [fetchUrl]);
-
-  // console.log(movies);
-  // console.table(movies);
 
   const opts = {
     height: "390",

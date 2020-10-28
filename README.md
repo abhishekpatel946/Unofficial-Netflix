@@ -1,68 +1,135 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GitHub license](https://img.shields.io/github/license/abhishekpatel946/Unofficial-Netflix)](https://github.com/abhishekpatel946/Unofficial-Netflix)
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/abhishekpatel946/Unofficial-Netflix">
+    <img src="src/Assets/logo-readme.png" alt="Logo" width="80" height="80">
+  </a>
 
-### `npm start`
+  <h3 align="center">Unofficial Netflix - README</h3>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Unofficial Netflix](#unofficial-netflix)
+    - [Built With](#built-with)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+  - [Road map](#road-map)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+  - [Acknowledgements](#acknowledgements)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<p align="center">
+  <a href="https://github.com/abhishekpatel946/Unofficial-Netflix">
+<!--     <img src="Icon/logo-passmanager.jpeg" alt="Logo" width="100" height="100"> -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png" alt="Logo" width="600" height="200">
+  </a>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Unofficial Netflix
 
-### `npm run eject`
+This is the clone of Netflix called as Unofficial Netflix. It shows bunch of latest movies & series with description. We're using TMDB api for the scrapping details of each movies and series. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+For the frontend we're used here React and Custom CSS for styling and hosted using Firebase.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built With
+This section should list any major frameworks that you built using your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples:
+* [React](https://reactjs.org/docs/getting-started.html)
+* [TMDB](https://developers.themoviedb.org/3)
+* [Firebase](https://firebase.google.com/docs)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- GETTING STARTED -->
+## Getting Started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-### Code Splitting
+### Prerequisites
+```sh
+Node.js
+```
+```sh
+npm
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<!-- USAGE EXAMPLES -->
+## Usage
 
-### Analyzing the Bundle Size
+![Main-Screeen](https://github.com/abhishekpatel946/Unofficial-Netflix/../../../../src/Assets/main-screen.png)
+![Movie-popup](https://github.com/abhishekpatel946/Unofficial-Netflix/../../../../src/Assets/movie-popup.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+_For more examples, please refer to the [Documentation]()_
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+<!-- ROAD MAP -->
+## Road map
 
-### Deployment
+See the [open issues](https://github.com/abhishekpatel946/Unofficial-Netflix/issues) for a list of proposed features (and known issues).
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See [`LICENSE`](https://github.com/abhishekpatel946/Unofficial-Netflix/blob/master/LICENSE) for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Project Link: [https://github.com/abhishekpatel946/PassManager-pyScript](https://github.com/abhishekpatel946/Unofficial-Netflix)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/abhishekpatel946/Unofficial-Netflix.svg?style=flat
+[contributors-url]: https://github.com/abhishekpatel946/Unofficial-Netflix/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/abhishekpatel946/Unofficial-Netflix.svg?style=flat
+[forks-url]: https://github.com/abhishekpatel946/Unofficial-Netflix/network/members
+[stars-shield]: https://img.shields.io/github/stars/abhishekpatel946/Unofficial-Netflix.svg?style=flat
+[stars-url]: https://github.com/abhishekpatel946/PassManager-pyScript/stargazers
+[issues-shield]: https://img.shields.io/github/issues/abhishekpatel946/Unofficial-Netflix.svg?style=flat
+[issues-url]: https://github.com/abhishekpatel946/Unofficial-Netflix/issues
