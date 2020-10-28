@@ -26,7 +26,6 @@
   - [Usage](#usage)
   - [Road map](#road-map)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
 
@@ -66,7 +65,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 ```sh
-Node.js
+React
 ```
 ```sh
 npm
@@ -103,13 +102,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See [`LICENSE`](https://github.com/abhishekpatel946/Unofficial-Netflix/blob/master/LICENSE) for more information.
 
 
 
