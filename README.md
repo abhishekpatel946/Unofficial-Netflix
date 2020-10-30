@@ -20,12 +20,13 @@
 ## Table of Contents
 
 - [Unofficial Netflix](#unofficial-netflix)
-    - [Built With](#built-with)
+    - [Link to the application](#linktotheapp)
+    - [Built Using](#built-using)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
   - [Usage](#usage)
   - [Road map](#road-map)
-  - [Contributing](#contributing)
+  - [Contribution](#contribution)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
 
@@ -42,13 +43,25 @@
 
 # [Unofficial Netflix](https://unofficial-netflix.web.app/)
 
-This is the clone of Netflix called as Unofficial Netflix. It shows bunch of latest movies & series with description. We're using TMDB api for the scrapping details of each movies and series. 
+This is the clone of Netflix called as Unofficial Netflix. It shows a bunch of latest movies & series with description. We're using TMDB api for the scrapping details of each movies and series. 
+
+The different categories such as:
+* Netflix Orignals
+* Trending Now
+* Top Rated
+* Action Movies
+* Horror Movies
+* Documentaries
 
 For the frontend we're used here React and Custom CSS for styling and hosted using Firebase.
+<a name="linktotheapp"></a>
+### Link to our application:
+https://unofficial-netflix.web.app/
 
-here it is :- https://unofficial-netflix.web.app/
-
-### Built With
+```sh
+Status: live and running
+```
+### Built Using
 This section should list any major frameworks that you built using your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples:
 * [React](https://reactjs.org/docs/getting-started.html)
 * [TMDB](https://developers.themoviedb.org/3)
@@ -60,8 +73,8 @@ This section should list any major frameworks that you built using your project.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is an example of how to set up your project locally.
+To get a local copy up and running on your system follow these simple example steps.
 
 ### Prerequisites
 ```sh
@@ -77,11 +90,9 @@ firebase
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+### Gallery
 ![Main-Screeen](https://github.com/abhishekpatel946/Unofficial-Netflix/blob/master/src/Assets/main-screen.png)
 ![Movie-popup](https://github.com/abhishekpatel946/Unofficial-Netflix/blob/master/src/Assets/movie-popup.png)
-
-
-_For more examples, please refer to the [Documentation]()_
 
 
 
@@ -93,10 +104,11 @@ See the [open issues](https://github.com/abhishekpatel946/Unofficial-Netflix/iss
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribution
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+#### Steps to follow:
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
